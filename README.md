@@ -82,9 +82,11 @@ The exported .xlsx file contains:
 ## Test Files / Credits
 
 The fasta sequences used for testing were downloaded from NCBI:
+	
 	•	Homo sapiens chromosome 17, clone hRPK.1053_B_8, complete sequence.fasta
 Homo sapiens chromosome 17, clone hRPK.1053_B_8, complete sequence
 NCBI link:https://www.ncbi.nlm.nih.gov/nuccore/AC006083.1?report=fasta
+	
 	•	Homo sapiens chromosome 1 clone VMRC53-215D14, complete sequence.fasta
 Homo sapiens chromosome 1, clone VMRC53-215D14, complete sequence
 NCBI Link:https://www.ncbi.nlm.nih.gov/nuccore/AC278876.1?report=fasta
