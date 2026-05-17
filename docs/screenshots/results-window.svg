@@ -1,0 +1,40 @@
+<svg width="980" height="620" viewBox="0 0 980 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="980" height="620" fill="#f4f7fb"/>
+  <rect x="54" y="46" width="872" height="528" rx="8" fill="#ffffff" stroke="#cfd8e3"/>
+  <rect x="54" y="46" width="872" height="42" rx="8" fill="#243447"/>
+  <text x="78" y="74" fill="#ffffff" font-family="Arial, sans-serif" font-size="17" font-weight="700">Translation Results</text>
+
+  <rect x="80" y="112" width="820" height="36" rx="5" fill="#eef3f8" stroke="#d8e0ea"/>
+  <text x="100" y="136" fill="#263442" font-family="Arial, sans-serif" font-size="14">Legend:</text>
+  <rect x="160" y="120" width="58" height="20" rx="3" fill="#B7F7C8"/>
+  <text x="173" y="135" fill="#064E3B" font-family="Courier, monospace" font-size="14" font-weight="700">AUG</text>
+  <rect x="234" y="120" width="114" height="20" rx="3" fill="#FFD1D1"/>
+  <text x="246" y="135" fill="#8A1111" font-family="Courier, monospace" font-size="14" font-weight="700">UAA/UAG/UGA</text>
+
+  <rect x="80" y="168" width="820" height="330" rx="4" fill="#ffffff" stroke="#d8e0ea"/>
+  <text x="100" y="198" fill="#0B3A75" font-family="Courier, monospace" font-size="15" font-weight="700">--- example.fasta ---</text>
+  <text x="100" y="226" fill="#111827" font-family="Courier, monospace" font-size="14">Length: 9 bp | GC: 33.33% | A:3 T:3 C:1 G:2</text>
+  <text x="100" y="252" fill="#111827" font-family="Courier, monospace" font-size="14">Start codons: 1 | Stop codons: 1 | Longest protein: 2 aa</text>
+  <text x="100" y="278" fill="#111827" font-family="Courier, monospace" font-size="14">Detected ORFs: 1 | Displayed after filters: 1</text>
+
+  <text x="100" y="320" fill="#111827" font-family="Courier, monospace" font-size="14">RNA codons:</text>
+  <rect x="202" y="305" width="54" height="22" rx="3" fill="#B7F7C8"/>
+  <text x="211" y="321" fill="#064E3B" font-family="Courier, monospace" font-size="14" font-weight="700">AUG</text>
+  <text x="266" y="321" fill="#111827" font-family="Courier, monospace" font-size="14">GCU</text>
+  <rect x="310" y="305" width="54" height="22" rx="3" fill="#FFD1D1"/>
+  <text x="319" y="321" fill="#8A1111" font-family="Courier, monospace" font-size="14" font-weight="700">UAA</text>
+
+  <text x="100" y="364" fill="#4B5563" font-family="Courier, monospace" font-size="14">Reverse complement preview: TTAAGCCAT</text>
+  <text x="100" y="408" fill="#0B3A75" font-family="Courier, monospace" font-size="15" font-weight="700">Protein 1: frame +1, forward, start 1, stop 7, 9 nt, 2 aa, complete</text>
+  <text x="100" y="436" fill="#111827" font-family="Courier, monospace" font-size="14">Protein: Met-Ala</text>
+  <text x="100" y="464" fill="#111827" font-family="Courier, monospace" font-size="14">Codons:</text>
+  <rect x="166" y="449" width="78" height="22" rx="3" fill="#B7F7C8"/>
+  <text x="174" y="465" fill="#064E3B" font-family="Courier, monospace" font-size="14" font-weight="700">AUG:Met</text>
+  <text x="254" y="465" fill="#111827" font-family="Courier, monospace" font-size="14">GCU:Ala</text>
+  <text x="100" y="492" fill="#111827" font-family="Courier, monospace" font-size="14">Stop codon:</text>
+  <rect x="202" y="477" width="54" height="22" rx="3" fill="#FFD1D1"/>
+  <text x="211" y="493" fill="#8A1111" font-family="Courier, monospace" font-size="14" font-weight="700">UAA</text>
+
+  <rect x="774" y="522" width="126" height="32" rx="5" fill="#2f80ed"/>
+  <text x="797" y="543" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="700">Export XLSX</text>
+</svg>
